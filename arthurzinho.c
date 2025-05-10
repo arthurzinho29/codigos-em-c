@@ -9,6 +9,7 @@ scanf("%99s",&nome);
 
 printf("Seu nome e: %s",nome);
 
+printf("Seu nickname no jogo vai ser: %s",nome);
 
-
+return 0;
 }
